@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @p4k9
-- 👀 I’m interested in Python, Linux, Data analysis, Tacos, and Beer
-- 🌱 I’m currently learning the Linux command line, git, and python
+- 👀 I’m interested in learning swiftUI, Python, Linux, Data analysis, Tacos, and Beer
+- 🌱 I’m currently learning SwiftUI, Linux command line, git, and python
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me paul@p4k9.com
 
